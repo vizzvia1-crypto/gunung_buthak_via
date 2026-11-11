@@ -20,7 +20,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/g_buthak_via.jpeg # Fixed the naming to match the correct file name
+    - assets/g_buthak_via.jpeg
   #  - images/a_dot_ham.jpeg
   # fonts:
   #   - family: Schyler
